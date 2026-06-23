@@ -19,7 +19,7 @@ UseNote allows users to create notes with a title and content, browse saved note
 
 ## Screenshots
 
-| Home | Empty State | Create Note |
+| Home | Home With Note | Create Note |
 | --- | --- | --- |
 | <img src="tampilan_aplikasi/usenotehome.png" width="240" alt="UseNote home screen"> | <img src="tampilan_aplikasi/usenotehomewithnore.png" width="240" alt="UseNote empty home screen"> | <img src="tampilan_aplikasi/usenotecreatenote.png" width="240" alt="UseNote create note screen"> |
 
