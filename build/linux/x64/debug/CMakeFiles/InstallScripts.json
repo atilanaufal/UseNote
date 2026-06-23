@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/SStorage/VScodeProject/Flutter/UseNote/build/linux/x64/debug/cmake_install.cmake",
+		"/mnt/SStorage/VScodeProject/Flutter/UseNote/build/linux/x64/debug/flutter/cmake_install.cmake",
+		"/mnt/SStorage/VScodeProject/Flutter/UseNote/build/linux/x64/debug/runner/cmake_install.cmake",
+		"/mnt/SStorage/VScodeProject/Flutter/UseNote/build/linux/x64/debug/plugins/url_launcher_linux/cmake_install.cmake",
+		"/mnt/SStorage/VScodeProject/Flutter/UseNote/build/linux/x64/debug/plugins/jni/cmake_install.cmake",
+		"/mnt/SStorage/VScodeProject/Flutter/UseNote/build/linux/x64/debug/plugins/jni/shared/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

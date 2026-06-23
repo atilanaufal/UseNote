@@ -35,7 +35,6 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Colors.grey[200],
         textButtonTheme: TextButtonThemeData(
           style: TextButton.styleFrom(
-            primary: Colors.black,
             backgroundColor: Colors.transparent,
             shape: const RoundedRectangleBorder(
               borderRadius: BorderRadius.all(Radius.circular(0)),
