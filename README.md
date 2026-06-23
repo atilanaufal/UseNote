@@ -1,6 +1,5 @@
-# flutter_application_1
-
-A new Flutter project.
+# Use Note: A Note Taking App
+Unfinished
 
 ## Getting Started
 
